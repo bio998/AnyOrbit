@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=FSUMRpSnJEQ
 
 A paper on the technique can be found here (won best poster at SUI 2016!)
 https://dl.acm.org/citation.cfm?id=2989195
+A further note has been accepted for publication at ETRA, which details the technical implementation, which will be published soon.
 
 More information including notes on the technical implementation can be found at
 http://www.benjaminoutram.com/#/anyorbit-orbital-navigation/
