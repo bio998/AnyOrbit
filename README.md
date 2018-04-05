@@ -35,7 +35,8 @@ More information including notes on the technical implementation can be found at
 
 http://www.benjaminoutram.com/#/anyorbit-orbital-navigation/
 
-
+Thanks to collaborators:
+Yun Suen Pai, Tanner Person, Kouta Minamizawa, Kai Kunze
 
 
 
