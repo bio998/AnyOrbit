@@ -4,7 +4,9 @@ AnyOrbit is a powerful navigation algorithm for 3D virtual environments includin
 Introductory videos:
 
 https://www.youtube.com/watch?v=OiTlCbtmGTY
+
 and
+
 https://youtu.be/h1bvyVGZPkM
 
 To get started, try downloading the "AnyOrbit stars demo.zip" file, unzip and load.  You can experience a guided tour around the brightest stars visible from Earth.  
