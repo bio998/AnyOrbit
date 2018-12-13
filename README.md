@@ -15,7 +15,7 @@ Next try the "AnyOrbit mouse stars.zip" file. This one gives you control of the 
 
 The stars are a sample of data of real stars visible from earth, a reference to the data set can be found in the papers written about AnyOrbit.
 
-AnyOrbit may be a very useful navigation tool for 3D environments including for CAD, gaming, sports and e-sports spectating, and data visualisation. In addition to using the mouse to control the point of interest at the center of the orbital camera motion, we have also attempted use of eye-tracking, directed control, in augmented reality, and also in desktop situations, also useing eye-tracking for point of interest selection.  Videos of some of these implementations can be found at my youtube channel.
+AnyOrbit may be a very useful navigation tool for 3D environments including for CAD, gaming, sports and e-sports spectating, and data visualisation. In addition to using the mouse to control the point of interest at the center of the orbital camera motion, we have also attempted use of eye-tracking, directed control, in augmented reality, and also in desktop situations, also using eye-tracking for point of interest selection.  Videos of some of these implementations can be found at my youtube channel.
 
 desktop environment with tobii eye-tracking
 
