@@ -35,7 +35,8 @@ A paper on the technique can be found here (won best poster at SUI 2016!)
 
 https://dl.acm.org/citation.cfm?id=2989195
 
-A further note has been accepted for publication at ETRA, which details the technical implementation, which will be published soon.
+A further note has been accepted for publication at ETRA, which details the technical implementation
+https://www.researchgate.net/profile/Benjamin_Outram2/publication/325637125_Anyorbit_orbital_navigation_in_virtual_environments_with_eye-tracking/links/5b1fdedf0f7e9b0e373ecb52/Anyorbit-orbital-navigation-in-virtual-environments-with-eye-tracking.pdf
 
 More information including notes on the technical implementation can be found at
 
