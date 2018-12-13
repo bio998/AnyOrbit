@@ -11,7 +11,7 @@ https://youtu.be/h1bvyVGZPkM
 
 To get started, try downloading the "AnyOrbit stars demo.zip" file, unzip and load.  You can experience a guided tour around the brightest stars visible from Earth.  
 
-Next try the "AnyOrbit mouse stars.zip" file. This one give you control of the orbital center directly with a mouse input. Use the mouse scroll wheel to move the red marker away and towards you and around in your field of view.  This marker represents your orbital center of motion, of point of interest (POI).  Rotate your head to orbit around the star field.  Here is a video of the experience: https://www.youtube.com/watch?v=fmzXvdzG9HQ
+Next try the "AnyOrbit mouse stars.zip" file. This one gives you control of the orbital center directly with using mouse input. Use the mouse scroll wheel to move the red marker away and towards you and around in your field of view.  This marker represents your orbital center of motion, or point of interest (POI).  Rotate your head to orbit around the star field.  Here is a video of the experience: https://www.youtube.com/watch?v=fmzXvdzG9HQ
 
 The stars are a sample of data of real stars visible from earth, a reference to the data set can be found in the papers written about AnyOrbit.
 
